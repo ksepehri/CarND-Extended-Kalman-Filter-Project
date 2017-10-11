@@ -1,7 +1,18 @@
+[//]: # (Image References)
+
+[image1]: ./images/finalRMSE.png "Left"
+
 # Extended Kalman Filter Project Starter Code
 Self-Driving Car Engineer Nanodegree Program
 
-In this project you will utilize a kalman filter to estimate the state of a moving object of interest with noisy lidar and radar measurements. Passing the project requires obtaining RMSE values that are lower that the tolerance outlined in the project rubric. 
+In this project I utilized a kalman filter to estimate the state of a moving object of interest with noisy lidar and radar measurements. Passing the project required obtaining RMSE values that are lower that the tolerance outlined in the project rubric. 
+
+Tolerence: [.11, .11, 0.52, 0.52]
+My Final RMSE: [.0973, .0855, .4513, .4399]
+
+![alt text][image1]
+
+---
 
 This project involves the Term 2 Simulator which can be downloaded [here](https://github.com/udacity/self-driving-car-sim/releases)
 
